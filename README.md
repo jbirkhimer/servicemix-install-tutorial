@@ -1,4 +1,4 @@
-# servicemix-install-tutorial
+#Servicemix Install Tutorial
 Some notes on installing Servicemix with Fedora on linux (centos) 
 
 
